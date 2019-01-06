@@ -1,0 +1,13 @@
+Library
+Temp
+*.unityproj
+*.pidb
+*.csproj
+*.userprefs
+*.sln
+*_dist.py
+*blend1*
+*blend2*
+*_dist.py
+*.pyc
+x.x*
